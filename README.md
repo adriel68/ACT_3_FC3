@@ -11,20 +11,20 @@ Capítulo 10. Colas - página 303.
 El programa debe involucrar las operaciones de cada estructura.
 
 Pila:
-Agregar
-Sacar
-Pila Vacía
-Pila Llena
-Cima
-Borrar Pila
+-Agregar
+-Sacar
+-Pila Vacía
+-Pila Llena
+-Cima
+-Borrar Pila
 
 Cola:
-Agregar
-Sacar
-Cola Vacía
-Cola Llena
-Frente
-Borrar Pila
+-Agregar
+-Sacar
+-Cola Vacía
+-Cola Llena
+-Frente
+-Borrar Pila
 
 
 El tipo de elemento a guardar es libre (tipo de dato), el programa debe contener un menú que pregunte al usuario que hacer, es decir, si crear, borrar la estructura y ya sea agregar o eliminar elementos.
